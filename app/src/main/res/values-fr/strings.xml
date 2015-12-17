@@ -1,0 +1,16 @@
+<resources>
+<string name="app_name">Café Pour Closers</string>
+
+<string name="action_settings">Paramètres</string>
+<string name="name">Tapez votre nom ici</string>
+<string name="whipped_cream">Crème Fouettée</string>
+<string name="chocolate">Le Chocolat</string>
+    <string name="caramel">Caramel</string>
+    <string name="strawberry">Fraise</string>
+<string name="toppings">Garnitures</string>
+<string name="quantity">Quantité</string>
+<string name="order">Commande</string>
+    <string name="cardnumber">Numéro de Carte</string>
+    <string name="expiration">Date d expiration</string>
+
+</resources>
